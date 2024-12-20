@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+.solid {
+    font-size: 40px;
+    font-weight: 100;
+    color: green;
+}
